@@ -1,4 +1,4 @@
-# Migrating vProfile to AWS: A Manual Provisioning Odyssey
+# Moving vProfile to AWS: A Detailed Manual Setup Journey
 
 I'm excited to share my journey of migrating the vProfile application to the AWS cloud. This project is a deep dive into using a Lift and Shift strategy with manual provisioning to achieve a scalable and secure deployment on AWS.
 
